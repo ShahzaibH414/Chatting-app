@@ -1,6 +1,6 @@
 # smart_call_app
 
-A new Flutter project. Developed by HK
+A new Flutter project. Developed by Shahzaib Hassan
 
 ## Getting Started
 
