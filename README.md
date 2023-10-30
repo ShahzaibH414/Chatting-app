@@ -2,15 +2,24 @@
 
 A new Flutter project. Developed by Shahzaib Hassan
 
-## Getting Started
+Title: Smart Call App
 
-This project is a starting point for a Flutter application.
+Key Features:
 
-A few resources to get you started if this is your first Flutter project:
+Chatting: FlutterChat offers a user-friendly and intuitive chat interface. Users can send text messages, images, videos, and even documents to the users. The real-time messaging functionality ensures that conversations flow smoothly and instantly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Statuses: Keep your favourites updated with the status feature. Share images and short videos to express your current mood or experiences. You can view the statuses of your contacts and engage in conversations based on their updates.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Favorites: Organize your contacts with ease. Mark your favorite contacts for quick access. This feature is particularly useful for keeping track of your most contacted friend.
+
+Audio Calls: You can initiate high-quality audio calls with your contacts. Crystal-clear voice calls make it convenient to stay connected, no matter where you are.
+
+Video Calls: Video calls bring people closer than ever. Whether it's a personal catch-up or a professional meeting, Video calling feature ensures a smooth and immersive experience.
+
+Dark Mode: Smart Call App understands the importance of customization. The app offers a sleek and energy-efficient dark mode that's easy on the eyes in low-light conditions.
+
+Security: Data security is a top priority. The app employs end-to-end encryption to safeguard your messages and calls, ensuring your privacy and confidentiality.
+
+Profile Customization: Users can personalize their profiles with profile pictures, status messages, and other details, allowing them to express their individuality.
+
+Notifications: Stay informed with push notifications for new messages, status updates, and calls. This ensures you never miss an important conversation.
